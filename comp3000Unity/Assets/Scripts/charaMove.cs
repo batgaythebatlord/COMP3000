@@ -29,11 +29,6 @@ public class charaMove : MonoBehaviour
             transform.Rotate(0.0f, 1.5f, 0.0f, Space.Self);
         }
 
-        if (Input.GetKey(KeyCode.Space))
-        {
-            transform.Translate(Vector3.up * Time.deltaTime * (speed * 2));
-        }
-
 
 
         if (Input.GetKey("w"))
