@@ -12,7 +12,7 @@ public class followPerson : MonoBehaviour
 
     void Start()
     {
-        locationOffset = new Vector3(5, 5, -5);
+        locationOffset = new Vector3(2.5f, 2.5f, -2.5f);
         rotationOffset = new Vector3(45, -45, 0);
     }
 

@@ -11,6 +11,7 @@ public class dialogueSidebar : MonoBehaviour
     public GameObject dialogueDisplay;
 
     // Update is called once per frame
+    /*
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space))
@@ -37,4 +38,5 @@ public class dialogueSidebar : MonoBehaviour
         Display = true;
         dialogueDisplay.SetActive(true);
     }
+    */
 }
