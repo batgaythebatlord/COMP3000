@@ -14,15 +14,21 @@ public class moveUp : MonoBehaviour
 
     void OnTriggerStay(Collider other)
     {
-        Interact.SetActive(true);
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (other.gameObject.tag == "Player")
         {
-            Player.transform.Translate(Vector3.up);
+            Interact.SetActive(true);
+            if (Input.GetKeyDown(KeyCode.Space))
+            {
+                Player.transform.Translate(Vector3.up);
+            }
         }
     }
 
     void OnTriggerExit(Collider other)
     {
-        Interact.SetActive(false);
+        if (other.gameObject.tag == "Player")
+        {
+            Interact.SetActive(false);
+        }
     }
 }

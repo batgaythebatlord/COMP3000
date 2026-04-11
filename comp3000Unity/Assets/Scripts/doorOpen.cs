@@ -12,25 +12,17 @@ public class doorOpen : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        Open();
+        if (other.gameObject.tag == "Player")
+        {
+            target1.transform.Translate(Vector3.left);
+        }
     }
 
     void OnTriggerExit(Collider other)
     {
-        Close();
-    }
-
-    void Open()
-    {
-        //move over by like 4?
-        //make both animations later
-
-        target1.transform.Translate(Vector3.left);
-    }
-
-    void Close()
-    {
-        //move back
-        target1.transform.Translate(Vector3.right);
+        if (other.gameObject.tag == "Player")
+        {
+            target1.transform.Translate(Vector3.right);
+        }
     }
 }
