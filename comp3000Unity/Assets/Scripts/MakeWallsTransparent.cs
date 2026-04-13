@@ -42,7 +42,7 @@ public class MakeWallsTransparent : MonoBehaviour
         Vector3 playerPosition = player.transform.position + offest;
         float characterDistance = Vector3.Distance(transform.position, playerPosition);
         int layerMask = 1 << layerNumber;
-        RaycastHit[] hits = Physics.SphereCastAll(transform.position, 1.0f, playerPosition - transform.position, characterDistance - 1.0f, layerMask);
+        RaycastHit[] hits = Physics.RaycastAll(transform.position, playerPosition - transform.position, characterDistance, layerMask);
         if (hits.Length > 0)
         {
             // Repaint all the previous obstructions. Because some of the stuff might be not blocking anymore
