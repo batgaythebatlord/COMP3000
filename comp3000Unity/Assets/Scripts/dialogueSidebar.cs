@@ -4,39 +4,37 @@ using System.Collections.Generic;
 using System.Diagnostics;
 //using System.Runtime.Hosting;
 using System.Threading;
+using TMPro;
 
 public class dialogueSidebar : MonoBehaviour
 {
-    public static bool Display = false;
-    public GameObject dialogueDisplay;
+    [SerializeField] private GameObject dialogueDisplay;
+    [SerializeField] private TMP_Text dialogueText;
 
-    // Update is called once per frame
-    /*
-    void Update()
+    private void Awake()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            if (Display)
-            {
-                Hide();
-            }
-            else
-            {
-                Show();
-            }
-        }
-    }
-
-    public void Hide()
-    {
-        Display = false;
         dialogueDisplay.SetActive(false);
+        ResetDialogue();
     }
 
-    void Show()
+    void DialogueStarted()
     {
-        Display = true;
         dialogueDisplay.SetActive(true);
     }
-    */
+
+    void DialogueFinished()
+    {
+        dialogueDisplay.SetActive(false);
+        ResetDialogue();
+    }
+
+    void DisplayDialogue(string dialogueLine)
+    {
+        dialogueText.text = dialogueLine;
+    }
+
+    void ResetDialogue()
+    {
+        dialogueText.text = "";
+    }
 }

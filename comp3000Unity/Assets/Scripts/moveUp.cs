@@ -19,7 +19,7 @@ public class moveUp : MonoBehaviour
             Interact.SetActive(true);
             if (Input.GetKeyDown(KeyCode.Space))
             {
-                Player.transform.Translate(Vector3.up);
+                Player.transform.Translate(Vector3.up); //not going up enough for the bottom level
             }
         }
     }
