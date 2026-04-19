@@ -18,13 +18,13 @@ public class charaMove : MonoBehaviour
     void Update()
     {
 
-        if (Input.GetKey(KeyCode.LeftArrow))
+        if (Input.GetKey("q"))
         {
             transform.Rotate(0.0f, -1.5f, 0.0f, Space.Self);
 
         }
 
-        if (Input.GetKey(KeyCode.RightArrow))
+        if (Input.GetKey("e"))
         {
             transform.Rotate(0.0f, 1.5f, 0.0f, Space.Self);
         }

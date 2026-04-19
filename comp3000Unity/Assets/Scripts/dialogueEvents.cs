@@ -1,7 +1,7 @@
 using UnityEngine;
 using System;
 
-public class dialogueEvents : MonoBehaviour
+public class dialogueEvents
 {
     public event Action<string> onEnterDialogue;
 
