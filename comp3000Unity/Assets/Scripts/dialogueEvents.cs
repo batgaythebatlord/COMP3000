@@ -5,11 +5,11 @@ public class dialogueEvents
 {
     public event Action<string> onEnterDialogue;
 
-    public void EnterDialogue(string testKnot)
+    public void EnterDialogue(string knotName)
     {
         if (onEnterDialogue != null)
         {
-            onEnterDialogue(testKnot);
+            onEnterDialogue(knotName);
         }
     }
 }

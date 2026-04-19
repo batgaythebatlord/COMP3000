@@ -36,7 +36,6 @@ public class cubeInteract : MonoBehaviour
         if(!dialogueKnotName.Equals(""))
         {
             GameEvents.current.DialogueEventsScr.EnterDialogue(dialogueKnotName);
-            UnityEngine.Debug.Log(dialogueKnotName);
         }
 
     }
