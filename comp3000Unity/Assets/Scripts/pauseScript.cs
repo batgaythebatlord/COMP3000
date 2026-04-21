@@ -12,6 +12,11 @@ public class pauseScript : MonoBehaviour
     public static bool Paused = false;
     public GameObject pauseMenu;
 
+    private void Awake()
+    {
+        pauseMenu.SetActive(false);
+    }
+
     // Update is called once per frame
     void Update()
     {

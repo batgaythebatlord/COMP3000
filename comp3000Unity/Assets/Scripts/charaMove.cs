@@ -18,19 +18,18 @@ public class charaMove : MonoBehaviour
     void Update()
     {
 
-        if (Input.GetKey("q"))
-        {
-            transform.Rotate(0.0f, -1.5f, 0.0f, Space.Self);
+        //if (Input.GetKey("q"))
+        //{
+        //    transform.Rotate(0.0f, -1.5f, 0.0f, Space.Self);
 
-        }
+        //}
 
-        if (Input.GetKey("e"))
-        {
-            transform.Rotate(0.0f, 1.5f, 0.0f, Space.Self);
-        }
+        //if (Input.GetKey("e"))
+        //{
+        //    transform.Rotate(0.0f, 1.5f, 0.0f, Space.Self);
+        //}
 
-
-
+        
         if (Input.GetKey("w"))
         {
             transform.Translate(Vector3.forward * Time.deltaTime * speed);
@@ -50,5 +49,6 @@ public class charaMove : MonoBehaviour
         {
             transform.Translate(Vector3.right * Time.deltaTime * speed);
         }
+        
     }
 }
