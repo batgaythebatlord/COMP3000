@@ -19,6 +19,8 @@ public class dialogueManager : MonoBehaviour
 
 
     private const string PORTRAIT_TAG = "portrait";
+    private const string ANNOYANCE_TAG = "annoyance";
+    private const string TRUST_TAG = "trust";
 
 
     private void Awake()
@@ -135,6 +137,44 @@ public class dialogueManager : MonoBehaviour
             {
                 case PORTRAIT_TAG:
                     GameEvents.current.DialogueEventsScr.DisplayPortrait(tagValue);
+                    break;
+                case ANNOYANCE_TAG:
+                    string[] splitAnnoy = tagValue.Split("!");
+
+                    string annoyStr = splitAnnoy[0].Trim();
+                    string codeA = splitAnnoy[1].Trim();
+                    int annoyInt = int.Parse(annoyStr);
+
+
+                    if (codeA.Equals("s"))
+                    {
+                        GameEvents.current.RelationshipEventsScr.UpdateAnnoyanceSha(annoyInt);
+                    }
+
+                    if (codeA.Equals("r"))
+                    {
+                        GameEvents.current.RelationshipEventsScr.UpdateAnnoyanceRom(annoyInt);
+                    }
+
+                    break;
+                case TRUST_TAG:
+                    string[] splitTrust = tagValue.Split('!');
+
+                    string trustStr = splitTrust[0].Trim();
+                    string codeT = splitTrust[1].Trim();
+                    int trustInt = int.Parse(trustStr);
+
+
+                    if (codeT.Equals("s"))
+                    {
+                        GameEvents.current.RelationshipEventsScr.UpdateTrustSha(trustInt);
+                    }
+
+                    if(codeT.Equals("r"))
+                    {
+                        GameEvents.current.RelationshipEventsScr.UpdateTrustRom(trustInt);
+                    }
+
                     break;
                 default:
                     UnityEngine.Debug.LogWarning("Tag not recognised " + tag);

@@ -21,6 +21,7 @@ public class dialogueSidebar : MonoBehaviour
 
     [SerializeField] private dialogueChoiceButton[] choiceButtons;
 
+    private bool diceRoll;
     private bool diceActive;
 
     private void Awake()
@@ -62,6 +63,20 @@ public class dialogueSidebar : MonoBehaviour
     {
         dialogueText.text = dialogueLine;
 
+        if (diceActive)
+        {
+            percentileDie.gameObject.SetActive(false);
+            d10.gameObject.SetActive(false);
+        }
+
+        if(diceRoll)
+        {
+            diceActive = true;
+            diceRoll = false;
+            percentileDie.gameObject.SetActive(true);
+            d10.gameObject.SetActive(true);
+        }
+
         if (dialogueChoices.Count > choiceButtons.Length)
         {
             UnityEngine.Debug.LogError("More dialogue choices (" 
@@ -92,18 +107,12 @@ public class dialogueSidebar : MonoBehaviour
 
             choiceButtonIndex--;
         }
-
-        //if (diceActive)
-        //{
-        //    percentileDie.gameObject.SetActive(false);      make this stick around for 1 line
-        //}
     }
 
     void RollDice()
     {
         //write out all the logic for rolling and displaying dice here - might go into more than 1 method
-        diceActive = true;
-        percentileDie.gameObject.SetActive(true);
+        diceRoll = true;
     }
 
     void DisplayPortrait(string portrait)
