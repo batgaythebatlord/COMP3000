@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: f26534865d32f924ab68877fc1f8b91e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4679699969749752813
+    second: d10-merged_0
+  - first:
+      213: 7034411088612649965
+    second: d10-merged_1
+  - first:
+      213: 8493939677429286130
+    second: d10-merged_2
+  - first:
+      213: 4356410804787330400
+    second: d10-merged_3
+  - first:
+      213: 8189351096161009638
+    second: d10-merged_4
+  - first:
+      213: -6133703087356601125
+    second: d10-merged_5
+  - first:
+      213: -7945380641731731099
+    second: d10-merged_6
+  - first:
+      213: -3785742464093935417
+    second: d10-merged_7
+  - first:
+      213: 651384757225796901
+    second: d10-merged_8
+  - first:
+      213: 2025617632378001512
+    second: d10-merged_9
+  - first:
+      213: -5919627611077593389
+    second: d10-merged_10
+  - first:
+      213: -7979370947876945134
+    second: d10-merged_11
+  - first:
+      213: -3423733849482339495
+    second: d10-merged_12
+  - first:
+      213: -3865169454973790421
+    second: d10-merged_13
+  - first:
+      213: 6328382419734718658
+    second: d10-merged_14
+  - first:
+      213: 2468084291857837508
+    second: d10-merged_15
+  - first:
+      213: 5258352303597099520
+    second: d10-merged_16
+  - first:
+      213: 2470558871041265989
+    second: d10-merged_17
+  - first:
+      213: -72729204111421569
+    second: d10-merged_18
+  - first:
+      213: 1101362305928211678
+    second: d10-merged_19
+  - first:
+      213: 5698371045150895270
+    second: d10-merged_20
+  - first:
+      213: -6509076810312208369
+    second: d10-merged_21
+  - first:
+      213: -6179595514034220662
+    second: d10-merged_22
+  - first:
+      213: 6089798249020543564
+    second: d10-merged_23
+  - first:
+      213: -8077760554465060543
+    second: d10-merged_24
+  - first:
+      213: -6567405338817470432
+    second: d10-merged_25
+  - first:
+      213: -5722652562347039952
+    second: d10-merged_26
+  - first:
+      213: 6602692624762846745
+    second: d10-merged_27
+  - first:
+      213: 1061345585086888119
+    second: d10-merged_28
+  - first:
+      213: -6483661325554722445
+    second: d10-merged_29
+  - first:
+      213: -831484893228484554
+    second: d10-merged_30
+  - first:
+      213: 787259619792177467
+    second: d10-merged_31
+  - first:
+      213: 7758363892567527194
+    second: d10-merged_32
+  - first:
+      213: 2095324970722801882
+    second: d10-merged_33
+  - first:
+      213: 8479043495016224187
+    second: d10-merged_34
+  - first:
+      213: -5471317309665598257
+    second: d10-merged_35
+  - first:
+      213: 5079549323962551818
+    second: d10-merged_36
+  - first:
+      213: 2503073396906419209
+    second: d10-merged_37
+  - first:
+      213: 7454274399862375376
+    second: d10-merged_38
+  - first:
+      213: 7444317599505069875
+    second: d10-merged_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: d10-merged_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 660
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb17501452a1f040800000000000000
+      internalID: 4679699969749752813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_1
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1000
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb63dc7d9f3f9160800000000000000
+      internalID: 7034411088612649965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_2
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 645
+        width: 646
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4c4c0422980e570800000000000000
+      internalID: 8493939677429286130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_3
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1000
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06db503bb84157c30800000000000000
+      internalID: 4356410804787330400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_4
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 645
+        width: 646
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eff1a3de6b66a170800000000000000
+      internalID: 8189351096161009638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_5
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1000
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc94603a85b0eaa0800000000000000
+      internalID: -6133703087356601125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_6
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 645
+        width: 646
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561a05c17665cb190800000000000000
+      internalID: -7945380641731731099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_7
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1000
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8a1906947567bc0800000000000000
+      internalID: -3785742464093935417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_8
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 645
+        width: 631
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5253c8a4cfe2a0900800000000000000
+      internalID: 651384757225796901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_9
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 1000
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86898a421807c1c10800000000000000
+      internalID: 2025617632378001512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_10
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 864
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6302f1d0249dda0800000000000000
+      internalID: -5919627611077593389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_11
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 864
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21309b04664934190800000000000000
+      internalID: -7979370947876945134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_12
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 864
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bdf1024347c70d0800000000000000
+      internalID: -3423733849482339495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_13
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 864
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27d897fbd82c5ac0800000000000000
+      internalID: -3865169454973790421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_14
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 864
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c86d13184ee2d750800000000000000
+      internalID: 6328382419734718658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_15
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 651
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd68e34695604220800000000000000
+      internalID: 2468084291857837508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_16
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 651
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a13c76f8b69f840800000000000000
+      internalID: 5258352303597099520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_17
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 651
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541da112430394220800000000000000
+      internalID: 2470558871041265989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_18
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 651
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f44289c2d9dfef0800000000000000
+      internalID: -72729204111421569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_19
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 651
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc2bd59e23d84f00800000000000000
+      internalID: 1101362305928211678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 660
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac2798364ea41f40800000000000000
+      internalID: 5698371045150895270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_21
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 350
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00bb99a02d1ba5a0800000000000000
+      internalID: -6509076810312208369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_22
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 0
+        width: 646
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a819462fe9aad3aa0800000000000000
+      internalID: -6179595514034220662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_23
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 350
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c425aaa0e3f438450800000000000000
+      internalID: 6089798249020543564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_24
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 0
+        width: 646
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1499272d29706ef80800000000000000
+      internalID: -8077760554465060543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_25
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 350
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020e7c3d3a3ebd4a0800000000000000
+      internalID: -6567405338817470432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_26
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 0
+        width: 646
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033635080dd0590b0800000000000000
+      internalID: -5722652562347039952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_27
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 350
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91eb41ca5f971ab50800000000000000
+      internalID: 6602692624762846745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_28
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 0
+        width: 631
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b87807bf28aabe00800000000000000
+      internalID: 1061345585086888119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_29
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 350
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3795f5650686506a0800000000000000
+      internalID: -6483661325554722445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_30
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 214
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638330f15e8f574f0800000000000000
+      internalID: -831484893228484554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_31
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 214
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39c8bff378ecea00800000000000000
+      internalID: 787259619792177467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_32
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 214
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f44becade3bab60800000000000000
+      internalID: 7758363892567527194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_33
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 214
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad830f895f6141d10800000000000000
+      internalID: 2095324970722801882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_34
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 214
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb55783822d9ba570800000000000000
+      internalID: 8479043495016224187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_35
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4afe725e9f114b0800000000000000
+      internalID: -5471317309665598257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_36
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e0dd1923f2e7640800000000000000
+      internalID: 5079549323962551818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_37
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904665d1ef3bcb220800000000000000
+      internalID: 2503073396906419209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_38
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 1
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3c51e7217e27760800000000000000
+      internalID: 7454274399862375376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10-merged_39
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 1
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33730b14a678f4760800000000000000
+      internalID: 7444317599505069875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      d10-merged_0: 4679699969749752813
+      d10-merged_1: 7034411088612649965
+      d10-merged_10: -5919627611077593389
+      d10-merged_11: -7979370947876945134
+      d10-merged_12: -3423733849482339495
+      d10-merged_13: -3865169454973790421
+      d10-merged_14: 6328382419734718658
+      d10-merged_15: 2468084291857837508
+      d10-merged_16: 5258352303597099520
+      d10-merged_17: 2470558871041265989
+      d10-merged_18: -72729204111421569
+      d10-merged_19: 1101362305928211678
+      d10-merged_2: 8493939677429286130
+      d10-merged_20: 5698371045150895270
+      d10-merged_21: -6509076810312208369
+      d10-merged_22: -6179595514034220662
+      d10-merged_23: 6089798249020543564
+      d10-merged_24: -8077760554465060543
+      d10-merged_25: -6567405338817470432
+      d10-merged_26: -5722652562347039952
+      d10-merged_27: 6602692624762846745
+      d10-merged_28: 1061345585086888119
+      d10-merged_29: -6483661325554722445
+      d10-merged_3: 4356410804787330400
+      d10-merged_30: -831484893228484554
+      d10-merged_31: 787259619792177467
+      d10-merged_32: 7758363892567527194
+      d10-merged_33: 2095324970722801882
+      d10-merged_34: 8479043495016224187
+      d10-merged_35: -5471317309665598257
+      d10-merged_36: 5079549323962551818
+      d10-merged_37: 2503073396906419209
+      d10-merged_38: 7454274399862375376
+      d10-merged_39: 7444317599505069875
+      d10-merged_4: 8189351096161009638
+      d10-merged_5: -6133703087356601125
+      d10-merged_6: -7945380641731731099
+      d10-merged_7: -3785742464093935417
+      d10-merged_8: 651384757225796901
+      d10-merged_9: 2025617632378001512
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

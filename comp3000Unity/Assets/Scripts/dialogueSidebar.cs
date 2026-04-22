@@ -1,12 +1,13 @@
-using UnityEngine;
+using Ink.Runtime;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.Reflection;
 //using System.Runtime.Hosting;
 using System.Threading;
 using TMPro;
-using System.Reflection;
-using Ink.Runtime;
+using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
@@ -113,6 +114,13 @@ public class dialogueSidebar : MonoBehaviour
     {
         //write out all the logic for rolling and displaying dice here - might go into more than 1 method
         diceRoll = true;
+
+        System.Random rnd = new System.Random();
+
+        int percentileDieInt = rnd.Next(0, 10);
+        int d10Int = rnd.Next(0, 10);
+
+        UnityEngine.Debug.Log("Dice roll: " + percentileDieInt + d10Int);
     }
 
     void DisplayPortrait(string portrait)

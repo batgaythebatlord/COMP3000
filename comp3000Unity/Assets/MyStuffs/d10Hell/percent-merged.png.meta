@@ -1,0 +1,3848 @@
+fileFormatVersion: 2
+guid: f9b24434527bb8b478306d0426905a15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7642719652989730310
+    second: percent-merged_0
+  - first:
+      213: 2124095762349858748
+    second: percent-merged_1
+  - first:
+      213: 5616905854856401842
+    second: percent-merged_2
+  - first:
+      213: 4137352403544380571
+    second: percent-merged_3
+  - first:
+      213: 2398179706750414815
+    second: percent-merged_4
+  - first:
+      213: -4287390311234645262
+    second: percent-merged_5
+  - first:
+      213: 7464125125168748430
+    second: percent-merged_6
+  - first:
+      213: 4767214476243946298
+    second: percent-merged_7
+  - first:
+      213: -9094086123867187657
+    second: percent-merged_8
+  - first:
+      213: -868377927770368655
+    second: percent-merged_9
+  - first:
+      213: -8237311332855992295
+    second: percent-merged_10
+  - first:
+      213: -5387594849014024386
+    second: percent-merged_11
+  - first:
+      213: 6857755014155238593
+    second: percent-merged_12
+  - first:
+      213: 5374777051160708690
+    second: percent-merged_13
+  - first:
+      213: -251572386829082470
+    second: percent-merged_14
+  - first:
+      213: 5447004014023135100
+    second: percent-merged_15
+  - first:
+      213: -4235216984602663690
+    second: percent-merged_16
+  - first:
+      213: -8035406974247275954
+    second: percent-merged_17
+  - first:
+      213: 5693265799122526966
+    second: percent-merged_18
+  - first:
+      213: -8560490403203550907
+    second: percent-merged_19
+  - first:
+      213: 6331957849643863537
+    second: percent-merged_20
+  - first:
+      213: 7261175090417700404
+    second: percent-merged_21
+  - first:
+      213: -6704616097043538747
+    second: percent-merged_22
+  - first:
+      213: 4929490498975596279
+    second: percent-merged_23
+  - first:
+      213: -2976126806376213371
+    second: percent-merged_24
+  - first:
+      213: -1707821601506317941
+    second: percent-merged_25
+  - first:
+      213: -330572278643961324
+    second: percent-merged_26
+  - first:
+      213: -4904967762391784387
+    second: percent-merged_27
+  - first:
+      213: 3583143366552350590
+    second: percent-merged_28
+  - first:
+      213: -5619522053293789845
+    second: percent-merged_29
+  - first:
+      213: 2647354740508159410
+    second: percent-merged_30
+  - first:
+      213: -8108501998856234704
+    second: percent-merged_31
+  - first:
+      213: -485727470488150424
+    second: percent-merged_32
+  - first:
+      213: -8926980122608844442
+    second: percent-merged_33
+  - first:
+      213: 6992875061683069842
+    second: percent-merged_34
+  - first:
+      213: -7840486759651061392
+    second: percent-merged_35
+  - first:
+      213: -4424779500758970086
+    second: percent-merged_36
+  - first:
+      213: 6244313607065605522
+    second: percent-merged_37
+  - first:
+      213: -5801884018586769852
+    second: percent-merged_38
+  - first:
+      213: 1800606530221661074
+    second: percent-merged_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: percent-merged_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 644
+        width: 655
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e79521805601a60800000000000000
+      internalID: 7642719652989730310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1296
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf96c787dd4a7d10800000000000000
+      internalID: 2124095762349858748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1296
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b317878d1243fd40800000000000000
+      internalID: 5616905854856401842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1295
+        width: 35
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b941fd32714da6930800000000000000
+      internalID: 4137352403544380571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1296
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfa868bcbb084120800000000000000
+      internalID: 2398179706750414815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 646
+        width: 625
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2586d3a312084c0800000000000000
+      internalID: -4287390311234645262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_6
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1296
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8750c43146e59760800000000000000
+      internalID: 7464125125168748430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_7
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1296
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bce90fe4c882240800000000000000
+      internalID: 4767214476243946298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_8
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1295
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73656165ad05bc180800000000000000
+      internalID: -9094086123867187657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_9
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1296
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175157420e6e2f3f0800000000000000
+      internalID: -868377927770368655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_10
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1295
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910b1d46cf03fad80800000000000000
+      internalID: -8237311332855992295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_11
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 646
+        width: 653
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e377bce870b6b35b0800000000000000
+      internalID: -5387594849014024386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_12
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1296
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc7067f9d3ab2f50800000000000000
+      internalID: 6857755014155238593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_13
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1296
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2560b51504b079a40800000000000000
+      internalID: 5374777051160708690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_14
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1295
+        width: 35
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9061cf3f3c328cf0800000000000000
+      internalID: -251572386829082470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_15
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1296
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fc9f19a45a79b40800000000000000
+      internalID: 5447004014023135100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_16
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 646
+        width: 625
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4ae06779c7935c0800000000000000
+      internalID: -4235216984602663690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_17
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1296
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e427b4a2eef7c7090800000000000000
+      internalID: -8035406974247275954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_18
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 1296
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f22490841b820f40800000000000000
+      internalID: 5693265799122526966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_19
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1295
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54179ed6557033980800000000000000
+      internalID: -8560490403203550907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_20
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 1296
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdc4c8bd12afd750800000000000000
+      internalID: 6331957849643863537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_21
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 1295
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e034cf540e4c460800000000000000
+      internalID: 7261175090417700404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_22
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 646
+        width: 637
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc9a5cae2b64f2a0800000000000000
+      internalID: -6704616097043538747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_23
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 1296
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe7a13cd71196440800000000000000
+      internalID: 4929490498975596279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_24
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 1296
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5849d63107ca2b6d0800000000000000
+      internalID: -2976126806376213371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_25
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 1295
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b892a764d499c48e0800000000000000
+      internalID: -1707821601506317941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_26
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 1296
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412d5d69342996bf0800000000000000
+      internalID: -330572278643961324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_27
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 1295
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3425e7cecd0eebb0800000000000000
+      internalID: -4904967762391784387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_28
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1160
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f66a658e1e9b130800000000000000
+      internalID: 3583143366552350590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_29
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 1161
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d23fd47727302b0800000000000000
+      internalID: -5619522053293789845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1127
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd6f663c1b4db420800000000000000
+      internalID: 2647354740508159410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_31
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1127
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03911a98460d87f80800000000000000
+      internalID: -8108501998856234704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_32
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 1107
+        width: 4
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e97e760795249f0800000000000000
+      internalID: -485727470488150424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_33
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1127
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6614dea20eefc1480800000000000000
+      internalID: -8926980122608844442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_34
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1075
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293ae4a91deab0160800000000000000
+      internalID: 6992875061683069842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_35
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1070
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07158d035def03390800000000000000
+      internalID: -7840486759651061392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_36
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 1075
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11d4dfcc760892c0800000000000000
+      internalID: -4424779500758970086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_37
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 992
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295984f442248a650800000000000000
+      internalID: 6244313607065605522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_38
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 941
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446ae1c89319b7fa0800000000000000
+      internalID: -5801884018586769852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_39
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 927
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b5c16691a0df810800000000000000
+      internalID: 1800606530221661074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_40
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 927
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcc253d66169734397847d75978bea9
+      internalID: 1238460337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_41
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 927
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff5de7fc4154a74a9d4bd2cb5f99318
+      internalID: -471934944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_42
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 941
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887b139326933bd408d9c0083c8dd6e9
+      internalID: -771208103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_43
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 927
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54e3f6a120514d4384a20d2db754182
+      internalID: 1204695900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_44
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 927
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5840ef8321201c747a0262911108fd1b
+      internalID: 1771419841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_45
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 889
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d23062e05bc5d479bc8cc14024bea5
+      internalID: -1472293916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_46
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 865
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96beecff427a1884c82cbe7de8e50d69
+      internalID: 1531303539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_47
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 838
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478ac39894096f84aad07013dda00112
+      internalID: 1354699994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_48
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 837
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7649f5ee79412f24ea730a6f307ad6ce
+      internalID: 1388289385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_49
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 837
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e311cdeda56ca6e41a984e8f44ee04e1
+      internalID: 617677773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_50
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 837
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac16270d85d9334e9991ab597bf5a92
+      internalID: 861721598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_51
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 821
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002765997563e0f4abbb96725862e1b4
+      internalID: -1755188200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_52
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 713
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672cbbbfe06b181439a152aecfa61ff3
+      internalID: -500531653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_53
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 713
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e19984fea796541a325340a668f909
+      internalID: -1824676848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_54
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 713
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca14ab95a9137a343b444d5f954be860
+      internalID: 877000800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_55
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 713
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f42f84ec99534e4ba01695768f284ab
+      internalID: -1291830793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_56
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 713
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3076b5bce6ece974eaa4409cab7e6853
+      internalID: 1327671397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_57
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 692
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206583bf4a788774bbecb2c764e71545
+      internalID: 1256194239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_58
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 692
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c71c3d9ed5c8548b53eb9173c441a0
+      internalID: 2130663254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_59
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 692
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8c2c1090f4a964aa4933a0123da59d
+      internalID: -1357922263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_60
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 682
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3e941e32fbd5042942ebefdb24813b
+      internalID: 596610362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_61
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 682
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3c1b1b406f36e4b9087790ba9f1cf5
+      internalID: -515656630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_62
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 683
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056199872460dee44b95373f9d9c1576
+      internalID: -923224353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_63
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 682
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88393c27c599db84ba668e83a4c957df
+      internalID: 178861705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_64
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 683
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d61a306db0d2a469ef037ddd3bcc5d
+      internalID: 731614859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_65
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 659
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3eeed2361f4f546a772f3d2b644644
+      internalID: 784137512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_66
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 659
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ae8f1c061c804448c4c3a7a0eba2bb
+      internalID: -1096631076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_67
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 659
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd243d10046910a43bcfac41747b0a06
+      internalID: -1338264615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_68
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 659
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f0aabdab656514a8aa78f9933ed97e
+      internalID: -136919420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_69
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 659
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7632b2ee1969f5743bc477886e0cb1e5
+      internalID: 1886796091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_70
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 652
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f31128f4fad2f4a80833eb9cd50711
+      internalID: 2140930622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_71
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 651
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24433d39f85b3914cae4713aec2ae7de
+      internalID: -1541587561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_72
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 652
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4108b35c015f64db576847a20fd4d7
+      internalID: 598742007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_73
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 651
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2aee53a8a4f964aaebd3378d99d00b
+      internalID: -482665542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_74
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 652
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f3a25f15486fa4b8e704b80306902d
+      internalID: -1467495447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_75
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 651
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac371234303fb2d49801a7b14c783dc8
+      internalID: 985411504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_76
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 652
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ca9ac00b23eb946a257913dc362a7d
+      internalID: 186023615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_77
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 651
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a8ca3ae6d57b740ae73dd240a457f0
+      internalID: -1901065651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_78
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 652
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effad85227a5c5244a825b7c828189ea
+      internalID: 1394497672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_79
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 651
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baaa42980b3b1340a35b06e89ef2e84
+      internalID: 133326349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_80
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 646
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42867eddb543ef3408cc281be3cfb895
+      internalID: 1143946201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 647
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f29a6aa6522b9f41b6700fbc9a0482d
+      internalID: -909975515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_82
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 645
+        width: 47
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dbaa26bd1514e4fa5cdf1b532cc3b4
+      internalID: 885705953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_83
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 646
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd693ed7e19c61a46aa9cba151a271dc
+      internalID: 1076416826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_84
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 647
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9addabe1399abc4ba3adfc3befb1dcd
+      internalID: -1093724927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_85
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 645
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfec1a92d11c1a4da2eb8fc2af8cc24
+      internalID: 1338960561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_86
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 646
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b284c90dc023d44b6ab27a6ae05a51
+      internalID: -2041920150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_87
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 646
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed7684a0c46649459eef5e9b73222b2
+      internalID: -1689117406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_88
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 646
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a1121f59f066c40b1f312b8999da37
+      internalID: 813730671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_89
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 646
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcf478243567d84e938d29c1faad1bb
+      internalID: 1626684711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_90
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 647
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b919f87ed8f99419eb09d6aaee0adb
+      internalID: -1511272744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_91
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 645
+        width: 46
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f2c442b955e2e43a643e78f53f45fa
+      internalID: -463138375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_92
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 646
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a031df31a4f60d6438ecff309320baf8
+      internalID: 1598818326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_93
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 647
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c458c442a597a3e4f9d21ba4340f285d
+      internalID: 749273310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_94
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 645
+        width: 47
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eeda03e859c9e94c9ea15ade78457a7
+      internalID: 1957394832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_95
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 646
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8c0a77b8a2a664a81c8cb96152310c
+      internalID: 1942105449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_96
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 646
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3abbf29ab67cea4297d5157b1fb6f9b
+      internalID: -1918230966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_97
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 647
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39e434ac24e6ab4b8f4909515d0d83e
+      internalID: 883557304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_98
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 645
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76365e832c467834aaf4fcc1173189c3
+      internalID: -980436430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_99
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 646
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73990697389bd24b8ba0ed7eb18ddf7
+      internalID: -1595190502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_100
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 645
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c29eba41fda4a544939b8506f77b61b
+      internalID: 139496363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_101
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 646
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f6c142a098dd344bd18d3fb6af1f87
+      internalID: -283453788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_102
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 652
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39645d16f9e6ccc4d951f1b80a322d2f
+      internalID: -1966484239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_103
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 511
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206b941870a264a4ab2df208da10877b
+      internalID: -64742070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_104
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 0
+        width: 628
+        height: 638
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221c580d36f314b4d9e8540cdd7053c8
+      internalID: -1755432219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_105
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 0
+        width: 653
+        height: 638
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375246c71d9c6a14e96ea805ab4ab4e1
+      internalID: 605090730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_106
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 0
+        width: 641
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7650ba1e50c188b46bdd4a5e93ed55fc
+      internalID: 508208617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_107
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 511
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d351cb6abb8dbd45b377c2eebe93196
+      internalID: 2019128886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_108
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 0
+        width: 628
+        height: 638
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e4633ae5421d84a95f458997ae2f0d
+      internalID: -605709903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a42b5227229e046853caf3fa5dd598
+      internalID: -1346327193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_110
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 477
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9935112e0ece84e8837a803f2e610d
+      internalID: -1454723766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_111
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 451
+        width: 4
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ee952319653d240af3a1b2151b60f1
+      internalID: 455123963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_112
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 424
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de24f8d3c427ec346ac6f6b0f6e52122
+      internalID: 1519695380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_113
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 420
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a472f740d12fba4bbcd43a6becd2469
+      internalID: 498748773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_114
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 346
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc747289fad1df4ca4cc4d3dbbc5654
+      internalID: 805407151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_115
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 291
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559bd5ddc6792944287cb9516a49c74d
+      internalID: 1897519097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_116
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 277
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9b31f903e0b8e4eb40a2f14cbee073
+      internalID: -1177909795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_117
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 277
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4ee2bb78ac6d048988f34be02bbd57
+      internalID: -359562793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_118
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 277
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a802c2e7df3ac9143b38da85320bcef9
+      internalID: 360762595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_119
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 291
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ab8b8cc405eb045aef40db8f73f209
+      internalID: -2039780504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_120
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 277
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9b845519e89f74bbece49eb1023827
+      internalID: -1889137322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_121
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 277
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf028fb50ef61441aceb8cae5a7a120
+      internalID: -1966775907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_122
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 240
+        width: 5
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1842dadb0ce0c83439cd16072da9cdb4
+      internalID: -1961564448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_123
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 216
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75fd12ac8ea0324295fa6cccce78047
+      internalID: 1180338849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_124
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 187
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a832bd0a5c0a44988b5f5948b71d85
+      internalID: -1853991351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_125
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 188
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54e395e0a879864289d93a0a0472735
+      internalID: -244901413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_126
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 186
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1e3f8ca24139b41bc8dafa91bd28bd
+      internalID: 603590057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_127
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 63
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916bd02012f755444b635d9c00270faa
+      internalID: 1079205280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_128
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 63
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227a276193cc17d47a77df02ae120ddf
+      internalID: -594704790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_129
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 63
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61fea30e63ee6545b113407694ed5a7
+      internalID: -44744097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_130
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 63
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc204c7dfd49014392daf56079f1786
+      internalID: -1223861424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_131
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 63
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7352c840510ea4bbf958fa6efb6e3a
+      internalID: 1944407678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_132
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 41
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0333ce45363f50540859de3a843c9a23
+      internalID: -1594813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_133
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 41
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d7474eb580c5449b1b8c638bee8dec
+      internalID: 1676817055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_134
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 41
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b54cd2432fe4b42bee0fbaaf8d766a
+      internalID: -458786772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_135
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 41
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff645b780825a14097a66857dc5d893
+      internalID: 1692893719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_136
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 33
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8439cc8af9e461b4b85b89cee8b2d763
+      internalID: -991831474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_137
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 33
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b965d304107c2b34990275194431296b
+      internalID: 1340248599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_138
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 33
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9b3f52e9ee42749a153ad7b7fe9690
+      internalID: 1970169513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_139
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 33
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2038c57fb1a1549b8ab458e9a961b1
+      internalID: -1401720416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_140
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 33
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0d351127cf92a4a981e4a717d831b2
+      internalID: -3031556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_141
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 9
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408b3ff5440961f4c820f1a1b56541e1
+      internalID: -234824617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_142
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 9
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c57561320a752f4ca0eeccea8a72af9
+      internalID: -1330369074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_143
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 9
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93f4cf6438627e488ffe06e738354c3
+      internalID: -303959763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_144
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 9
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7032d025c5e930448c873df17002908
+      internalID: 2142444111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_145
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7db6958f599604c81279dcaee589c8
+      internalID: -2098322039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_146
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 9
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb9458a3b84e7649ab54cffd55f33d6
+      internalID: 407410937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_147
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d568f9528c957348ba1e969c53c5fbc
+      internalID: -1937031050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_148
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf47b2c74997f84889fd06c3b7d2979
+      internalID: 385165755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_149
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f3f5a0c6a3296418c0510057388711
+      internalID: -1185251019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_150
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c83e180c29a1914985a1cb33935c186
+      internalID: 1074145930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_151
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 2
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e55838db2d9e754687c22fb7719ea0e
+      internalID: 328992634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_152
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e90449cca3396944a8232c7337719ad
+      internalID: 1761797247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_153
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 2
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081f2a40adf42424580789eb3a111714
+      internalID: -1174315256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_154
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 1
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e229ca11f316545be4709865976526
+      internalID: -1339333269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_155
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 2
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5f0d79fa9bb5741ac10744740291d1
+      internalID: -1304080962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: percent-merged_156
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 1
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62852f9c9c9e58f49aa8911e752d2a47
+      internalID: 1309716733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8e1b7ad78e9811b4bb788870c5781c49
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      percent-merged_0: 7642719652989730310
+      percent-merged_1: 2124095762349858748
+      percent-merged_10: -8237311332855992295
+      percent-merged_100: 139496363
+      percent-merged_101: -283453788
+      percent-merged_102: -1966484239
+      percent-merged_103: -64742070
+      percent-merged_104: -1755432219
+      percent-merged_105: 605090730
+      percent-merged_106: 508208617
+      percent-merged_107: 2019128886
+      percent-merged_108: -605709903
+      percent-merged_109: -1346327193
+      percent-merged_11: -5387594849014024386
+      percent-merged_110: -1454723766
+      percent-merged_111: 455123963
+      percent-merged_112: 1519695380
+      percent-merged_113: 498748773
+      percent-merged_114: 805407151
+      percent-merged_115: 1897519097
+      percent-merged_116: -1177909795
+      percent-merged_117: -359562793
+      percent-merged_118: 360762595
+      percent-merged_119: -2039780504
+      percent-merged_12: 6857755014155238593
+      percent-merged_120: -1889137322
+      percent-merged_121: -1966775907
+      percent-merged_122: -1961564448
+      percent-merged_123: 1180338849
+      percent-merged_124: -1853991351
+      percent-merged_125: -244901413
+      percent-merged_126: 603590057
+      percent-merged_127: 1079205280
+      percent-merged_128: -594704790
+      percent-merged_129: -44744097
+      percent-merged_13: 5374777051160708690
+      percent-merged_130: -1223861424
+      percent-merged_131: 1944407678
+      percent-merged_132: -1594813
+      percent-merged_133: 1676817055
+      percent-merged_134: -458786772
+      percent-merged_135: 1692893719
+      percent-merged_136: -991831474
+      percent-merged_137: 1340248599
+      percent-merged_138: 1970169513
+      percent-merged_139: -1401720416
+      percent-merged_14: -251572386829082470
+      percent-merged_140: -3031556
+      percent-merged_141: -234824617
+      percent-merged_142: -1330369074
+      percent-merged_143: -303959763
+      percent-merged_144: 2142444111
+      percent-merged_145: -2098322039
+      percent-merged_146: 407410937
+      percent-merged_147: -1937031050
+      percent-merged_148: 385165755
+      percent-merged_149: -1185251019
+      percent-merged_15: 5447004014023135100
+      percent-merged_150: 1074145930
+      percent-merged_151: 328992634
+      percent-merged_152: 1761797247
+      percent-merged_153: -1174315256
+      percent-merged_154: -1339333269
+      percent-merged_155: -1304080962
+      percent-merged_156: 1309716733
+      percent-merged_16: -4235216984602663690
+      percent-merged_17: -8035406974247275954
+      percent-merged_18: 5693265799122526966
+      percent-merged_19: -8560490403203550907
+      percent-merged_2: 5616905854856401842
+      percent-merged_20: 6331957849643863537
+      percent-merged_21: 7261175090417700404
+      percent-merged_22: -6704616097043538747
+      percent-merged_23: 4929490498975596279
+      percent-merged_24: -2976126806376213371
+      percent-merged_25: -1707821601506317941
+      percent-merged_26: -330572278643961324
+      percent-merged_27: -4904967762391784387
+      percent-merged_28: 3583143366552350590
+      percent-merged_29: -5619522053293789845
+      percent-merged_3: 4137352403544380571
+      percent-merged_30: 2647354740508159410
+      percent-merged_31: -8108501998856234704
+      percent-merged_32: -485727470488150424
+      percent-merged_33: -8926980122608844442
+      percent-merged_34: 6992875061683069842
+      percent-merged_35: -7840486759651061392
+      percent-merged_36: -4424779500758970086
+      percent-merged_37: 6244313607065605522
+      percent-merged_38: -5801884018586769852
+      percent-merged_39: 1800606530221661074
+      percent-merged_4: 2398179706750414815
+      percent-merged_40: 1238460337
+      percent-merged_41: -471934944
+      percent-merged_42: -771208103
+      percent-merged_43: 1204695900
+      percent-merged_44: 1771419841
+      percent-merged_45: -1472293916
+      percent-merged_46: 1531303539
+      percent-merged_47: 1354699994
+      percent-merged_48: 1388289385
+      percent-merged_49: 617677773
+      percent-merged_5: -4287390311234645262
+      percent-merged_50: 861721598
+      percent-merged_51: -1755188200
+      percent-merged_52: -500531653
+      percent-merged_53: -1824676848
+      percent-merged_54: 877000800
+      percent-merged_55: -1291830793
+      percent-merged_56: 1327671397
+      percent-merged_57: 1256194239
+      percent-merged_58: 2130663254
+      percent-merged_59: -1357922263
+      percent-merged_6: 7464125125168748430
+      percent-merged_60: 596610362
+      percent-merged_61: -515656630
+      percent-merged_62: -923224353
+      percent-merged_63: 178861705
+      percent-merged_64: 731614859
+      percent-merged_65: 784137512
+      percent-merged_66: -1096631076
+      percent-merged_67: -1338264615
+      percent-merged_68: -136919420
+      percent-merged_69: 1886796091
+      percent-merged_7: 4767214476243946298
+      percent-merged_70: 2140930622
+      percent-merged_71: -1541587561
+      percent-merged_72: 598742007
+      percent-merged_73: -482665542
+      percent-merged_74: -1467495447
+      percent-merged_75: 985411504
+      percent-merged_76: 186023615
+      percent-merged_77: -1901065651
+      percent-merged_78: 1394497672
+      percent-merged_79: 133326349
+      percent-merged_8: -9094086123867187657
+      percent-merged_80: 1143946201
+      percent-merged_81: -909975515
+      percent-merged_82: 885705953
+      percent-merged_83: 1076416826
+      percent-merged_84: -1093724927
+      percent-merged_85: 1338960561
+      percent-merged_86: -2041920150
+      percent-merged_87: -1689117406
+      percent-merged_88: 813730671
+      percent-merged_89: 1626684711
+      percent-merged_9: -868377927770368655
+      percent-merged_90: -1511272744
+      percent-merged_91: -463138375
+      percent-merged_92: 1598818326
+      percent-merged_93: 749273310
+      percent-merged_94: 1957394832
+      percent-merged_95: 1942105449
+      percent-merged_96: -1918230966
+      percent-merged_97: 883557304
+      percent-merged_98: -980436430
+      percent-merged_99: -1595190502
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
