@@ -51,6 +51,8 @@ public class dialogueSidebar : MonoBehaviour
 
     void DialogueStarted()
     {
+        percentileDie.gameObject.SetActive(false);
+        d10.gameObject.SetActive(false);
         dialogueDisplay.SetActive(true);
     }
 
