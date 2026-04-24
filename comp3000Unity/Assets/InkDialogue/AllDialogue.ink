@@ -17,3 +17,12 @@ This is line 2.
     Dice roll
     Extra line
 -> END
+
+=== companionConvo ===
+Talking with a companion
+* Show annoyance
+    Annoyance level is: 
+-> DONE
+* Show trust
+    Trust level is: 
+-> END
