@@ -1,4 +1,6 @@
 EXTERNAL rollDice()
+EXTERNAL showAnnoyance()
+EXTERNAL showTrust()
 
 === testKnot ===
 This is the dialogue. #portrait: familyGuyAstacus
@@ -21,8 +23,8 @@ This is line 2.
 === companionConvo ===
 Talking with a companion
 * Show annoyance
-    Annoyance level is: 
+    Annoyance level is: ~showAnnoyance()
 -> DONE
 * Show trust
-    Trust level is: 
+    Trust level is: ~showTrust()
 -> END
