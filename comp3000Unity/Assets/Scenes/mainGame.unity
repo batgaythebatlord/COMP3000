@@ -266,7 +266,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 80
+  m_Constraints: 112
   m_CollisionDetection: 0
 --- !u!1 &49389705
 GameObject:
@@ -1951,6 +1951,8 @@ MonoBehaviour:
   - {fileID: 1048608088}
   - {fileID: 1226901595}
   - {fileID: 5680134081358689862}
+  ShaunaScr: {fileID: 2102426784}
+  RomelloScr: {fileID: 1709356152}
 --- !u!1 &784980589
 GameObject:
   m_ObjectHideFlags: 0

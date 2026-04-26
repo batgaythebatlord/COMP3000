@@ -29,4 +29,19 @@ public class charaRomello : MonoBehaviour
         trust += trustChange;
         UnityEngine.Debug.Log("Romello trust: " + trust);
     }
+
+    public int returnState(string type)
+    {
+        if (type == "trust")
+        {
+            return trust;
+        }
+
+        if (type == "annoyance")
+        {
+            return annoyance;
+        }
+
+        return 0;
+    }
 }

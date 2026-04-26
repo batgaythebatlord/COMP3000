@@ -29,4 +29,19 @@ public class charaShauna : MonoBehaviour
         trust += trustChange;
         UnityEngine.Debug.Log("Shauna trust: " + trust);
     }
+
+    public int returnState(string type)
+    {
+        if (type == "trust")
+        {
+            return trust;
+        }
+
+        if (type == "annoyance")
+        {
+            return annoyance;
+        }
+
+        return 0;
+    }
 }

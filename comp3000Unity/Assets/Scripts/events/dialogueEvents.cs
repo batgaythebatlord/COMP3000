@@ -75,4 +75,16 @@ public class dialogueEvents
             onDisplayPortrait(portrait);
         }
     }
+
+    public event Action<string> onShowState;
+
+    public void ShowState(string character)
+    {
+        if (onShowState != null)
+        {
+            onShowState(character);
+        }
+    }
+
+
 }

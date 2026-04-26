@@ -22,8 +22,14 @@ public class dialogueSidebar : MonoBehaviour
 
     [SerializeField] private dialogueChoiceButton[] choiceButtons;
 
+    [SerializeField] private charaShauna ShaunaScr;
+    [SerializeField] private charaRomello RomelloScr;
+
     private bool diceRoll;
     private bool diceActive;
+    private bool displayingState = false;
+
+    
 
     private void Awake()
     {
@@ -38,6 +44,7 @@ public class dialogueSidebar : MonoBehaviour
         GameEvents.current.DialogueEventsScr.onDisplayDialogue += DisplayDialogue;
         GameEvents.current.DialogueEventsScr.onRollDice += RollDice;
         GameEvents.current.DialogueEventsScr.onDisplayPortrait += DisplayPortrait;
+        GameEvents.current.DialogueEventsScr.onShowState += ShowState;
     }
 
     private void OnDisable()
@@ -47,6 +54,7 @@ public class dialogueSidebar : MonoBehaviour
         GameEvents.current.DialogueEventsScr.onDisplayDialogue -= DisplayDialogue;
         GameEvents.current.DialogueEventsScr.onRollDice -= RollDice;
         GameEvents.current.DialogueEventsScr.onDisplayPortrait -= DisplayPortrait;
+        GameEvents.current.DialogueEventsScr.onShowState -= ShowState;
     }
 
     void DialogueStarted()
@@ -64,7 +72,11 @@ public class dialogueSidebar : MonoBehaviour
 
     void DisplayDialogue(string dialogueLine, List<Choice> dialogueChoices)
     {
-        dialogueText.text = dialogueLine;
+        if(!displayingState)
+        { 
+            dialogueText.text = dialogueLine; 
+        }
+        displayingState = false;
 
         if (diceActive)
         {
@@ -128,6 +140,24 @@ public class dialogueSidebar : MonoBehaviour
     void DisplayPortrait(string portrait)
     {
         //?????????????
+    }
+
+    void ShowState(string character)
+    {
+        displayingState = true;
+
+        if (character == "Shauna")
+        {
+            dialogueText.text = "Shauna annoyance: " + ShaunaScr.returnState("annoyance") + "\nShauna trust: " + ShaunaScr.returnState("trust");
+        }
+        else if(character == "Romello")
+        {
+            dialogueText.text = "Romello annoyance: " + RomelloScr.returnState("annoyance") + "\nRomello trust: " + RomelloScr.returnState("trust");
+        }
+        else
+        {
+            dialogueText.text = "Character not recognised: " + character;
+        }
     }
 
     void ResetDialogue()
