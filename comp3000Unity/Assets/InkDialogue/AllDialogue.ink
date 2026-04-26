@@ -19,7 +19,6 @@ This is line 2.
 * This choice leads to a dice roll
     ~ rollDice()
     Dice roll
-    Extra line
     ->choosePerson
 -> END
 

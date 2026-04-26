@@ -1953,6 +1953,8 @@ MonoBehaviour:
   - {fileID: 5680134081358689862}
   ShaunaScr: {fileID: 2102426784}
   RomelloScr: {fileID: 1709356152}
+  percentileDieAnimator: {fileID: 5665204896896120104}
+  d10Animator: {fileID: 6836382647491754406}
 --- !u!1 &784980589
 GameObject:
   m_ObjectHideFlags: 0
@@ -5016,6 +5018,7 @@ GameObject:
   - component: {fileID: 3885123098418077830}
   - component: {fileID: 679012603825629157}
   - component: {fileID: 6836382647491754405}
+  - component: {fileID: 6836382647491754406}
   m_Layer: 5
   m_Name: dice2
   m_TagString: Untagged
@@ -7129,6 +7132,7 @@ GameObject:
   - component: {fileID: 5665204896896120103}
   - component: {fileID: 5053361810848090442}
   - component: {fileID: 4012046155051874949}
+  - component: {fileID: 5665204896896120104}
   m_Layer: 5
   m_Name: dice1
   m_TagString: Untagged
@@ -7200,6 +7204,28 @@ RectTransform:
   m_AnchoredPosition: {x: 95, y: 115}
   m_SizeDelta: {x: 130, y: 130}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!95 &5665204896896120104
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5355661652668405680}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3dd57a7dfbaa431428689976ed42a206, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!114 &5680134081358689862 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 1148680577572998805, guid: c6d394553dbec2c4a89b447a383d3f8f, type: 3}
@@ -7775,6 +7801,28 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!95 &6836382647491754406
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 617385743628846854}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 6bceacde837759849907fc43fe185e3a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!23 &6871508419029786547
 MeshRenderer:
   m_ObjectHideFlags: 0

@@ -25,6 +25,9 @@ public class dialogueSidebar : MonoBehaviour
     [SerializeField] private charaShauna ShaunaScr;
     [SerializeField] private charaRomello RomelloScr;
 
+    [SerializeField] private Animator percentileDieAnimator;
+    [SerializeField] private Animator d10Animator;
+
     private bool diceRoll;
     private bool diceActive;
     private bool displayingState = false;
@@ -80,16 +83,18 @@ public class dialogueSidebar : MonoBehaviour
 
         if (diceActive)
         {
+            percentileDieAnimator.Play("0");
+            d10Animator.Play("0");
+
             percentileDie.gameObject.SetActive(false);
             d10.gameObject.SetActive(false);
+            diceActive = false;
         }
 
         if(diceRoll)
         {
             diceActive = true;
             diceRoll = false;
-            percentileDie.gameObject.SetActive(true);
-            d10.gameObject.SetActive(true);
         }
 
         if (dialogueChoices.Count > choiceButtons.Length)
@@ -127,6 +132,10 @@ public class dialogueSidebar : MonoBehaviour
     void RollDice()
     {
         //write out all the logic for rolling and displaying dice here - might go into more than 1 method
+
+        percentileDie.gameObject.SetActive(true);
+        d10.gameObject.SetActive(true);
+
         diceRoll = true;
 
         System.Random rnd = new System.Random();
@@ -135,6 +144,78 @@ public class dialogueSidebar : MonoBehaviour
         int d10Int = rnd.Next(0, 10);
 
         UnityEngine.Debug.Log("Dice roll: " + percentileDieInt + d10Int);
+
+        switch(percentileDieInt)
+        {
+            case 0:
+                percentileDieAnimator.Play("0");
+                break;
+            case 1:
+                percentileDieAnimator.Play("1");
+                break;
+            case 2:
+                percentileDieAnimator.Play("2");
+                break;
+            case 3:
+                percentileDieAnimator.Play("3");
+                break;
+            case 4:
+                percentileDieAnimator.Play("4");
+                break;
+            case 5:
+                percentileDieAnimator.Play("5");
+                break;
+            case 6:
+                percentileDieAnimator.Play("6");
+                break;
+            case 7:
+                percentileDieAnimator.Play("7");
+                break;
+            case 8:
+                percentileDieAnimator.Play("8");
+                break;
+            case 9:
+                percentileDieAnimator.Play("9");
+                break;
+            default:
+                break;  
+        }
+
+        switch (d10Int)
+        {
+            case 0:
+                d10Animator.Play("0");
+                break;
+            case 1:
+                d10Animator.Play("1");
+                break;
+            case 2:
+                d10Animator.Play("2");
+                break;
+            case 3:
+                d10Animator.Play("3");
+                break;
+            case 4:
+                d10Animator.Play("4");
+                break;
+            case 5:
+                d10Animator.Play("5");
+                break;
+            case 6:
+                d10Animator.Play("6");
+                break;
+            case 7:
+                d10Animator.Play("7");
+                break;
+            case 8:
+                d10Animator.Play("8");
+                break;
+            case 9:
+                d10Animator.Play("9");
+                break;
+            default:
+                break;
+        }
     }
 
     void DisplayPortrait(string portrait)
